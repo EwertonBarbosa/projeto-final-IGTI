@@ -9,7 +9,8 @@ body {
 
 .title {
   font-size: 38px;
-  margin: 20px 0 10px 0;
+  padding: 40px;
+  text-align: center;
 }
 
 .subtitle {
